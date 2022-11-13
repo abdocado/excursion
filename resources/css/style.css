@@ -1,0 +1,18 @@
+h1{
+    color:white;
+    text-align:center;
+    font-weight: normal;
+}
+
+body{
+    font-family:"Times New Roman", Times, serif;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a{
+    text-align: center;
+    color: white;
+    display: block;
+
+}
